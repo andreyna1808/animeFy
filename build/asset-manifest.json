@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d57260f1.js",
+    "static/media/anime-zenitsu.gif": "/static/media/anime-zenitsu.8440f3a73a7927205177.gif",
+    "static/media/narut.mp3": "/static/media/narut.3074b2fba8a3c0452e88.mp3",
+    "static/media/dbz.mp3": "/static/media/dbz.1008bc6a56196e4f8dbf.mp3",
+    "static/media/animeFy.jpg": "/static/media/animeFy.2ad8f81bebc23beb9074.jpg",
+    "index.html": "/index.html",
+    "main.d57260f1.js.map": "/static/js/main.d57260f1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d57260f1.js"
+  ]
+}
