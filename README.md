@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# AnimeFy
+Nós somos o AnimeFy (altamente competitivo com o Spotfy, sqn...) é um projeto que tem como foco treinar o componente de classes e requisições na API usando axios.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### METAVERSO
 
-## Available Scripts
+## :hammer: Funcionalidades do projeto
+- `Funcionalidade 1`: Página Home do site.
+- `Funcionalidade 2`: Você entra para fazer o "Login" (nada imprementando só treinando rotas)
+- `Funcionalidade 3`: Você pode ver, adicionar e excluir as playlist.
+- `Funcionalidade 4`: Apertar na Playlist e ver todas as musicas dela, remover a musica da playlist, adicionar musica e voltar para as playlist
+- `Funcionalidade 5`: Ver o seja premium ao som de uma das aberturas de Dragon Ball
 
-In the project directory, you can run:
 
-### `yarn start`
+## Autora
+  [<img src="https://avatars.githubusercontent.com/u/87716793?v=4" width=115><br><sub>Andreyna Carvalho</sub>](https://github.com/andreyna1808)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Acesse ao projeto:
+Pelo surge: https://freezing-bomb.surge.sh/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `yarn test`
+### IMAGEM EM DESKTOP E MOBILE
+![AnimeFY](https://user-images.githubusercontent.com/87716793/152858762-576f4944-0ff3-4929-a901-8d42d9b335fa.png)
+![Login](https://user-images.githubusercontent.com/87716793/152858775-30eac2c4-515c-4054-bb14-8380bb2e3320.png)
+![Playlis](https://user-images.githubusercontent.com/87716793/152858784-b6f4a547-bf1b-4a08-8ad9-d3a3a7ec4b50.png)
+![Musica](https://user-images.githubusercontent.com/87716793/152858792-59cf21de-07e2-4301-8aca-d507012dce46.png)
+![premium](https://user-images.githubusercontent.com/87716793/152858799-3bd40d65-8c54-4665-8625-17d54d3d7a5c.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Projeto feito com base no pedido da LABENU (curso de desenvilmento FUllStack caso tenha interesse link abaixo, obs. não ganho nada, só estou indicando mesmo é muito bommm <3)
+https://www.labenu.com.br/curso
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Projeto feito no modulo 2 do curso de FullStack https://github.com/future4code/moreira-Andreyna-Carvalho
