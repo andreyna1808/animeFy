@@ -7,8 +7,8 @@ Nós somos o AnimeFy (altamente competitivo com o Spotfy, sqn...) é um projeto 
 - `Funcionalidade 1`: Página Home do site.
 - `Funcionalidade 2`: Você entra para fazer o "Login" (nada imprementando só treinando rotas)
 - `Funcionalidade 3`: Você pode ver, adicionar e excluir as playlist.
-- `Funcionalidade 4`: Apertar na Playlist e ver todas as musicas dela, remover a musica da playlist, adicionar musica e voltar para as playlist
-- `Funcionalidade 5`: Ver o seja premium ao som de uma das aberturas de Dragon Ball
+- `Funcionalidade 4`: Apertar na Playlist e ver todas as músicas dela, podendo remover da playlist, adicionar e voltar para as playlists
+- `Funcionalidade 5`: Responsivo para mobile
 
 
 ## Autora
@@ -25,7 +25,41 @@ Pelo surge: https://freezing-bomb.surge.sh/
 ![Musica](https://user-images.githubusercontent.com/87716793/152858792-59cf21de-07e2-4301-8aca-d507012dce46.png)
 ![premium](https://user-images.githubusercontent.com/87716793/152858799-3bd40d65-8c54-4665-8625-17d54d3d7a5c.png)
 
-### Projeto feito com base no pedido da LABENU (curso de desenvilmento FUllStack caso tenha interesse link abaixo, obs. não ganho nada, só estou indicando mesmo é muito bommm <3)
-https://www.labenu.com.br/curso
+### Lista com linguagem, framework e/ou tecnologias usadas
+- HTML, CSS E JAVASCRIPT
+- React
+- Sistema de Rotas
+- Styled-Components
+- Component de classes
 
-## Projeto feito no modulo 2 do curso de FullStack https://github.com/future4code/moreira-Andreyna-Carvalho
+### IDE
+Visual Studio Code
+
+### Como utilizar o projeto
+
+##### 1- Clonar o repositório
+  ❯ git clone git@github.com:andreyna1808/animeFy.git
+  ❯ Ou...
+  ❯ git clone https://github.com/andreyna1808/animeFy.git
+
+  ##### 2- Entrar no diretório
+  ❯ cd animeFy
+  
+##### 3- Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
+
+##### 3.1 - Utilizando yarn
+
+ ###### Instalar as dependências
+  ❯ yarn
+
+###### Iniciar o projeto
+  ❯ yarn dev:server
+  
+##### 3.2 - Utilizando npm
+
+ ###### Instalar as dependências
+  ❯ npm install
+
+ ###### Iniciar o projeto
+  ❯ npm start
+
