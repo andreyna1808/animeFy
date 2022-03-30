@@ -14,9 +14,7 @@ Nós somos o AnimeFy (altamente competitivo com o Spotfy, sqn...) é um projeto 
 ## Autora
   [<img src="https://avatars.githubusercontent.com/u/87716793?v=4" width=115><br><sub>Andreyna Carvalho</sub>](https://github.com/andreyna1808)
 
-### Acesse ao projeto:
-Pelo surge: https://freezing-bomb.surge.sh/
-
+### Acesse ao projeto: https://anime-fy.vercel.app/
 
 ### IMAGEM EM DESKTOP E MOBILE
 ![AnimeFY](https://user-images.githubusercontent.com/87716793/152858762-576f4944-0ff3-4929-a901-8d42d9b335fa.png)
